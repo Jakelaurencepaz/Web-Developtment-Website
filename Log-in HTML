@@ -1,1 +1,42 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <link type="text/css" rel="stylesheet" href="StyleSheet-login.css" />
+    </head>
+    <body style="background: url('Vice City.jpg');
+           background-size: auto;
+           background-repeat: no-repeat; ">
 
+        <div class="login">
+            <p>
+                Welcome to current! Sign<br />
+                up now and join the current community. 
+            </p>
+
+            <form method="post">
+                <div class="text-info">
+                    <input type="text" required>
+                    <span></span>
+                    <label>Email address or username</label>
+                </div>
+                <div class="text-info">
+                    <input type="password" required>
+                    <span></span>
+                    <label>Password</label>
+                </div>
+                <div class="pass">Forgot Password?</div>
+
+                <a href="index.html">
+                    <input type="button" href="htmlpage.html" value="Log-in">
+                </a>
+
+                <div class="signup_link">
+                    Not a member? <a href="#">Sign-up</a>
+                </div>
+            </form>
+
+        </div>
+    </body>
+    </html>
