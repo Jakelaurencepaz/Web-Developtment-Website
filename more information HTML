@@ -1,1 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta charset="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="StyleSheet-moreinfo.css" />
 
+</head>
+<body>
+
+    <div class="info">
+
+        <video autoplay loop muted plays-inline class="back-video">
+            <source src="pexels-engin-akyurt-6071387.mp4" type="video/mp4" />
+        </video>
+
+        <nav>
+            <a class="logo" href="https://current.com/"><ion-icon name="logo-xing"></ion-icon><strong>Current</strong> </a>
+            <ul>
+                <li><a href="index.html" target="_blank">Home</a></li>
+                <li><a href="aboutus.html" target="_blank">About Us</a></li>
+                <li><a href="moreinfo.html">More Information</a></li>
+                <li><a href="applynow.html">Apply Now</a></li>
+                <li><a href="#Help">Help</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <h1>More Information</h1>
+        </div>
+    </div>
+
+    <section class="moreinfo">
+
+        <h2><Strong>Get paid early with faster direct deposit's</Strong></h2>
+        
+        <p>
+            Now, in life there are plenty of things worth waiting for.<br />
+            Your money isn't one of them. With Current, you can<br />
+            get paid up to 2 days early, when you sign up for<br />
+            direct deposit with your Current account.<br />
+
+            <br />
+
+            Current is a financial technology company<br />
+            not a bank. Banking services provided by Choice financial group. Member FDIC.<br />
+        </p>
+    </section>
+
+    <section class="moreinfo2">
+
+        <img class="image" src="picc15.png" />
+
+        <h2><strong>How to get your<br /> pay check early:</strong></h2>
+
+        <p>
+            Download the Current app<br />
+            from the App or Play Store. Your employer submits payroll of when/how much you should be paid.<br />
+
+            <br />
+
+            Sign up for a current<br />
+            Account. Federal Reserve sends this information to Current.<br />
+
+            <br />
+
+            Email in direct deposit<br />
+            through the Current app. Current credits your account immediately (up to two days early) vs. waiting for the specified date.
+        </p>
+
+    </section>
+
+    <section class="moreinfo3">
+        <h2><strong>Faster Deposits</strong></h2>
+
+        <div class="columns">
+            <div class="moreinfo3-col">
+                <img src="picc16.png" />
+                <h4>
+                    Current is built to give you flexibility,<br />
+                    freedom in your life, and faster money.
+                </h4>
+
+                <p>
+                    That's why, with a Current Account, early<br />
+                    direct deposit is a feature we offer our<br />
+                    members.<br />
+
+                    <br />
+
+                    In today's world, a lot can happen in 48<br />
+                    hours. Being able to get paid early can be<br />
+                    a critical tool in helping you live the way<br />
+                    you want.
+                </p>
+            </div>
+            <div class="moreinfo3-col">
+                <img src="picc17.png" />
+                <h4>
+                    We believe you deserve your<br />
+                    hard-earned money as soon as possible.
+                </h4>
+
+                <p>
+                    We designed our banking system specifically<br />
+                    so you can get paid up to two days early,<br />
+                    as opposed to traditional banks. Normally,<br />
+                    it's simply impossible to get your paycheck early,<br />
+                    but with Current, you can—even if "payday"<br />
+                    is still a couple days out.<br />
+
+                    <br />
+
+                    Your life is unique, and we believe you<br />
+                    deserve your hard-earned money as soon as possible.<br />
+                    Direct deposit up to two days early is<br /> 
+                    something we're proud to offer our members.
+                </p>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <h3><strong>About Us</strong></h3>
+        <br />
+        <p>Welcome to current. Come join us! Team Current is constantly making improvements <br /> and solving problems, working together to improve financial <br /> outcomes for everyone.</p>
+        <br />
+        <p>
+            <a class="social-icon" href="https://discord.gg/qgkEPNyY">
+                <ion-icon name="logo-discord"></ion-icon>
+            </a>
+
+            <a class="social-icon" href="https://www.instagram.com/jakelaurencepaz/?hl=en">
+                <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+
+            <a class="social-icon" href="https://www.twitch.tv/awpwastaken">
+                <ion-icon name="logo-twitch"></ion-icon>
+            </a>
+
+            <a class="social-icon" href="https://pin.it/2J9364P">
+                <ion-icon name="logo-pinterest"></ion-icon>
+            </a>
+        </p>
+        <br />
+        <p2>Done by Jake Laurence De Guzman Paz</p2>
+    </footer>
+
+
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>
